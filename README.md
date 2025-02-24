@@ -1,4 +1,6 @@
-Santiago Castro
-Mario Velazques 
-Sebastian Rmirez
-Alex Perez
+**Integrantes**
+
+Santiago Castro  
+Mario Velazques  
+Sebastian Ramirez  
+Alex Perez  
